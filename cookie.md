@@ -9,10 +9,10 @@
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups chocolate chips
+- 1.5 cups chocolate chips
 
 ## Instructions
-1. Preheat oven to 375°F (190°C)
+1. Preheat oven to 350°F (190°C)
 2. Mix flour, baking soda, and salt
 3. Beat butter and sugars until creamy
 4. Add eggs and vanilla
